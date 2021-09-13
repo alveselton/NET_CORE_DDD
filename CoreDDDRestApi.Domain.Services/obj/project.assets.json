@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoreDDDRestApi.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CoreDDDRestApi.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreDDDRestApi.Domain.dll": {}
+        }
+      },
+      "CoreDDDRestApi.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CoreDDDRestApi.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CoreDDDRestApi.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreDDDRestApi.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreDDDRestApi.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CoreDDDRestApi.Domain/CoreDDDRestApi.Domain.csproj",
+      "msbuildProject": "../CoreDDDRestApi.Domain/CoreDDDRestApi.Domain.csproj"
+    },
+    "CoreDDDRestApi.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../CoreDDDRestApi.Core/CoreDDDRestApi.Domain.Core.csproj",
+      "msbuildProject": "../CoreDDDRestApi.Core/CoreDDDRestApi.Domain.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CoreDDDRestApi.Domain >= 1.0.0",
+      "CoreDDDRestApi.Domain.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alves\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain.Services\\CoreDDDRestApi.Infrastructure.Services.csproj",
+      "projectName": "CoreDDDRestApi.Infrastructure.Services",
+      "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain.Services\\CoreDDDRestApi.Infrastructure.Services.csproj",
+      "packagesPath": "C:\\Users\\alves\\.nuget\\packages\\",
+      "outputPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Core\\CoreDDDRestApi.Domain.Core.csproj": {
+              "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Core\\CoreDDDRestApi.Domain.Core.csproj"
+            },
+            "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain\\CoreDDDRestApi.Domain.csproj": {
+              "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain\\CoreDDDRestApi.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

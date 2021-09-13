@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="1.0 - Presentation\" />
+    <Folder Include="2.0 - Application\" />
+    <Folder Include="3.0 - Domain\" />
+    <Folder Include="4.0 - Infrastructure\" />
+  </ItemGroup>
+
+
+</Project>

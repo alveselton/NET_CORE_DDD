@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application\\CoreDDDRestApi.Application.csproj": {}
+  },
+  "projects": {
+    "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application.DTO\\CoreDDDRestApi.Application.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application.DTO\\CoreDDDRestApi.Application.DTO.csproj",
+        "projectName": "CoreDDDRestApi.Application.DTO",
+        "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application.DTO\\CoreDDDRestApi.Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\alves\\.nuget\\packages\\",
+        "outputPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application\\CoreDDDRestApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application\\CoreDDDRestApi.Application.csproj",
+        "projectName": "CoreDDDRestApi.Application",
+        "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application\\CoreDDDRestApi.Application.csproj",
+        "packagesPath": "C:\\Users\\alves\\.nuget\\packages\\",
+        "outputPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application.DTO\\CoreDDDRestApi.Application.DTO.csproj": {
+                "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application.DTO\\CoreDDDRestApi.Application.DTO.csproj"
+              },
+              "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Core\\CoreDDDRestApi.Domain.Core.csproj": {
+                "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Core\\CoreDDDRestApi.Domain.Core.csproj"
+              },
+              "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.CrossCutting.Adapter\\CoreDDDRestApi.Infrastructure.CrossCutting.Adapter.csproj": {
+                "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.CrossCutting.Adapter\\CoreDDDRestApi.Infrastructure.CrossCutting.Adapter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Core\\CoreDDDRestApi.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Core\\CoreDDDRestApi.Domain.Core.csproj",
+        "projectName": "CoreDDDRestApi.Domain.Core",
+        "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Core\\CoreDDDRestApi.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\alves\\.nuget\\packages\\",
+        "outputPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain\\CoreDDDRestApi.Domain.csproj": {
+                "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain\\CoreDDDRestApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.CrossCutting.Adapter\\CoreDDDRestApi.Infrastructure.CrossCutting.Adapter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.CrossCutting.Adapter\\CoreDDDRestApi.Infrastructure.CrossCutting.Adapter.csproj",
+        "projectName": "CoreDDDRestApi.Infrastructure.CrossCutting.Adapter",
+        "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.CrossCutting.Adapter\\CoreDDDRestApi.Infrastructure.CrossCutting.Adapter.csproj",
+        "packagesPath": "C:\\Users\\alves\\.nuget\\packages\\",
+        "outputPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.CrossCutting.Adapter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application.DTO\\CoreDDDRestApi.Application.DTO.csproj": {
+                "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Application.DTO\\CoreDDDRestApi.Application.DTO.csproj"
+              },
+              "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain\\CoreDDDRestApi.Domain.csproj": {
+                "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain\\CoreDDDRestApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain\\CoreDDDRestApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain\\CoreDDDRestApi.Domain.csproj",
+        "projectName": "CoreDDDRestApi.Domain",
+        "projectPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain\\CoreDDDRestApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\alves\\.nuget\\packages\\",
+        "outputPath": "E:\\Lab\\CORE\\NET_CORE_DDD\\NET_CORE_DDD\\CoreDDDRestApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

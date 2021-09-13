@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoreDDDRestApi.Application/1.0.0": {
+        "dependencies": {
+          "CoreDDDRestApi.Application.DTO": "1.0.0",
+          "CoreDDDRestApi.Domain.Core": "1.0.0",
+          "CoreDDDRestApi.Infrastructure.CrossCutting.Adapter": "1.0.0"
+        },
+        "runtime": {
+          "CoreDDDRestApi.Application.dll": {}
+        }
+      },
+      "CoreDDDRestApi.Application.DTO/1.0.0": {
+        "runtime": {
+          "CoreDDDRestApi.Application.DTO.dll": {}
+        }
+      },
+      "CoreDDDRestApi.Domain/1.0.0": {
+        "runtime": {
+          "CoreDDDRestApi.Domain.dll": {}
+        }
+      },
+      "CoreDDDRestApi.Domain.Core/1.0.0": {
+        "dependencies": {
+          "CoreDDDRestApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CoreDDDRestApi.Domain.Core.dll": {}
+        }
+      },
+      "CoreDDDRestApi.Infrastructure.CrossCutting.Adapter/1.0.0": {
+        "dependencies": {
+          "CoreDDDRestApi.Application.DTO": "1.0.0",
+          "CoreDDDRestApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CoreDDDRestApi.Infrastructure.CrossCutting.Adapter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreDDDRestApi.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreDDDRestApi.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreDDDRestApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreDDDRestApi.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreDDDRestApi.Infrastructure.CrossCutting.Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

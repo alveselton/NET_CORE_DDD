@@ -1,0 +1,15 @@
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\bin\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Services.deps.json
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\bin\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Services.dll
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\bin\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Services.pdb
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\bin\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Core.dll
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\bin\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.dll
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\bin\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Core.pdb
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\bin\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.pdb
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\obj\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Services.csproj.AssemblyReference.cache
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\obj\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\obj\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Services.AssemblyInfoInputs.cache
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\obj\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Services.AssemblyInfo.cs
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\obj\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Services.csproj.CoreCompileInputs.cache
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\obj\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Services.csproj.CopyComplete
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\obj\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Services.dll
+E:\Lab\CORE\CoreDDDRestApi\CoreDDDRestApi\CoreDDDRestApi.Domain.Services\obj\Debug\netcoreapp3.1\CoreDDDRestApi.Domain.Services.pdb

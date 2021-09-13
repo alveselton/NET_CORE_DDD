@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreDDDRestApi.Application.DTO\CoreDDDRestApi.Application.DTO.csproj" />
+    <ProjectReference Include="..\CoreDDDRestApi.Core\CoreDDDRestApi.Domain.Core.csproj" />
+    <ProjectReference Include="..\CoreDDDRestApi.CrossCutting.Adapter\CoreDDDRestApi.Infrastructure.CrossCutting.Adapter.csproj" />
+  </ItemGroup>
+
+</Project>

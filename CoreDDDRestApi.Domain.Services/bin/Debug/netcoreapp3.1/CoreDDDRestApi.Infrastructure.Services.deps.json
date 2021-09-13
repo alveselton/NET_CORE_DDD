@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoreDDDRestApi.Infrastructure.Services/1.0.0": {
+        "dependencies": {
+          "CoreDDDRestApi.Domain": "1.0.0",
+          "CoreDDDRestApi.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "CoreDDDRestApi.Infrastructure.Services.dll": {}
+        }
+      },
+      "CoreDDDRestApi.Domain/1.0.0": {
+        "runtime": {
+          "CoreDDDRestApi.Domain.dll": {}
+        }
+      },
+      "CoreDDDRestApi.Domain.Core/1.0.0": {
+        "dependencies": {
+          "CoreDDDRestApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CoreDDDRestApi.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreDDDRestApi.Infrastructure.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreDDDRestApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreDDDRestApi.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

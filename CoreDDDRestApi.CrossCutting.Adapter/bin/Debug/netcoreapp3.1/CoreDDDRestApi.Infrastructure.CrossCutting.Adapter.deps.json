@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoreDDDRestApi.Infrastructure.CrossCutting.Adapter/1.0.0": {
+        "dependencies": {
+          "CoreDDDRestApi.Application.DTO": "1.0.0",
+          "CoreDDDRestApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CoreDDDRestApi.Infrastructure.CrossCutting.Adapter.dll": {}
+        }
+      },
+      "CoreDDDRestApi.Application.DTO/1.0.0": {
+        "runtime": {
+          "CoreDDDRestApi.Application.DTO.dll": {}
+        }
+      },
+      "CoreDDDRestApi.Domain/1.0.0": {
+        "runtime": {
+          "CoreDDDRestApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreDDDRestApi.Infrastructure.CrossCutting.Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreDDDRestApi.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreDDDRestApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
